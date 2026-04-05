@@ -172,3 +172,29 @@ body {
   width: 100%;
   border-radius: 6px;
 }
+.page-center {
+  text-align: center;
+}
+
+.section h2 {
+  max-width: 700px;
+  margin: 0 auto 15px;
+  font-size: 28px;
+}
+
+.section ul {
+  max-width: 700px;
+  margin: 0 auto 15px;
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+.attraction-card h4 {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.attraction-card p {
+  font-size: 12px;
+  color: #666;
+}
